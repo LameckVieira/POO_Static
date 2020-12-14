@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.exe
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.deps.json
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.dll
+C:\Users\Lameck\Desktop\C#\POO_Static\bin\Debug\netcoreapp3.1\POO_Static.pdb
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.dll
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.pdb
+C:\Users\Lameck\Desktop\C#\POO_Static\obj\Debug\netcoreapp3.1\POO_Static.genruntimeconfig.cache
